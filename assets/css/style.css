@@ -1,0 +1,28 @@
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+    .flex-img{
+       
+        align-items: center;
+        justify-content: center;
+        width: 300px;
+    }
+    .flex-item1{
+        align-items: center;
+        display: flex;
+   
+}
+.flex-item2{
+    align-items:center;
+    display: flex;
+    width: 35em;
+    height: 2em;
+
+}
+.img-chat img{
+    width: 50px;
+    border-radius: 50%;
+}
